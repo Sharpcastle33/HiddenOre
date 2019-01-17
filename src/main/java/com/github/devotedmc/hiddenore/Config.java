@@ -333,7 +333,7 @@ public final class Config {
 
 	public static BlockConfig isDropBlock(String block, byte subtype, String worldName) {
 		Config i = HiddenOre.instances.get(worldName);
-		HiddenOre.getPlugin().getLogger().info("Getting isDropBlock for world " + worldName);
+		//HiddenOre.getPlugin().getLogger().info("Getting isDropBlock for world " + worldName);
 		
 		if(i != null){
 			HiddenOre.getPlugin().getLogger().info("i != null");
