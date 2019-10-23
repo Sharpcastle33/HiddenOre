@@ -1,4 +1,6 @@
-# HiddenOre
+# HiddenOre (Note, this branch is now abandonded. Features added in this branch have since been added to the main branch by the original developers)
+
+
 
 Brought to you by the developers from https://www.reddit.com/r/Devoted and https://www.github.com/DevotedMC -- check out our server at play.devotedmc.com and our website at www.devotedmc.com .
 
